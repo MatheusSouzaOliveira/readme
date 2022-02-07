@@ -95,7 +95,7 @@ With responsive layout, the application can be accessed from any device.
     
 
 ## Responsive Design
- 1. Cell phone
+ 1. Mobile
   
   ![mobile-screenshot]
 
