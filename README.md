@@ -38,16 +38,12 @@ Project built to provide updated data on cases of covid in the world and in spec
 With responsive layout, the application can be accessed from any device.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Built With
 * [React.js](https://reactjs.org)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 * [Typescript](https://www.typescriptlang.org/docs)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Prerequisites
 
